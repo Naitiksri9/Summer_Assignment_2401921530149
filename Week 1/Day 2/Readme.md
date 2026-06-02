@@ -1,5 +1,5 @@
 # Week 1 - Day 2
-Today I solved 3 problems based on Arrays, Hashing and Sliding Window.
+I solved the Problems given for DSA day-2 assignment
 ## Problems Solved
 ### 1. Maximum Subarray
 Using Kadane's Algorithm Found the maximum sum of a contiguous subarray.

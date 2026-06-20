@@ -20,6 +20,7 @@ stack<int> s1,s2;
         return front;
     }
     
+    
     int peek() {
          if(s2.empty()){
             while(!s1.empty()){
